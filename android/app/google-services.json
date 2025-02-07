@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641949224062",
+    "project_id": "ks-ai-42652",
+    "storage_bucket": "ks-ai-42652.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641949224062:android:cd5e98d3321c70a8841c2f",
+        "android_client_info": {
+          "package_name": "com.example.ks_tflite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkweD_n2YyM6a2E_v6V4S_p5H_mJZZalg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
