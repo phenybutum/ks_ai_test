@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class FirebaseFaceService {
-  final String apiKey = "AIzaSyD7d7inq1rRisirtgF5V-dLv5xkI3zri64";
+  final String apiKey = "token";
 
   Future<void> detectFace(File imageFile) async {
     final String base64Image = base64Encode(await imageFile.readAsBytes());
