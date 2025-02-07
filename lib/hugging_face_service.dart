@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class HuggingFaceAPI {
-  final String apiKey = "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";
+  final String apiKey = "token";
 
   Future<String> analyzeSentiment(String text) async {
     final url = Uri.parse("https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment");
